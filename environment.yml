@@ -2,6 +2,7 @@ name: pangeo
 channels:
   - conda-forge
 dependencies:
+  - pangeo-notebook
   - cmocean
   - xgcm
   - pip
