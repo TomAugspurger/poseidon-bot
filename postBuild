@@ -3,3 +3,4 @@ set -euo pipefail
 
 # labextensions
 jupyter serverextension enable --py nbgitpuller --sys-prefix
+touch /tmp/a  # hack
